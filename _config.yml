@@ -1,0 +1,28 @@
+name: novitaangka
+favicon: null
+layout_spectrum: 0.7404035087674856
+typography_spectrum: 0.4797310868743807
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.14954442693851888
+  lightness: 0.6075192571152002
+  saturation: 0.13456318248063326
+  rhythmicContrast: 0.8381256384309381
+purpose: []
